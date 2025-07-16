@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "CDC SG60",
+    "slug": "CDC-SG60",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CDC_SG60.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/CDC_SG60.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.github.com.dbghelp.cdcsg60",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CDC_SG60.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.github.com.dbghelp.cdcsg60"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b9c10bb1-8502-4481-9950-0d6c6aa117b9"
+      }
+    }
+  }
+}
