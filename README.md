@@ -1,5 +1,5 @@
 # CDC-Voucher-App
-Android App for CDC Voucher
+Android App for CDC Vouchers
 
 Created this because I don't want to dig up link whenever I need to use CDC voucher
 
