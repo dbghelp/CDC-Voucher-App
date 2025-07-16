@@ -13,3 +13,7 @@ Created this because I don't want to dig up link whenever I need to use CDC vouc
 <img src="./img/4.png" alt="Screenshot 4"/>
 
 ---
+
+## 💻 Download
+
+Download the installer from the [Releases](../../releases) section.
